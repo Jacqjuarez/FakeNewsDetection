@@ -28,6 +28,17 @@ Run the model:
 
 bash
 Copy code
+
+
+## Key Learning Outcomes
+
+Implemented text preprocessing and TF-IDF vectorization
+
+Trained and evaluated a binary classification model
+
+Visualized performance metrics
+
+Built an interpretable and reproducible NLP pipeline
 python scripts/fake_news_model.py
 Visualizations
  Dataset Distribution
